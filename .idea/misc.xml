@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/xmg333/Downloads/EnglishLearningApp-master/EnglishLearningApp-master/app/src/main/res/layout/activity_about.xml" value="0.3302083333333333" />
+        <entry key="..\:/Users/xmg333/Downloads/EnglishLearningApp-master/EnglishLearningApp-master/app/src/main/res/layout/activity_change_plan.xml" value="0.3302083333333333" />
+        <entry key="..\:/Users/xmg333/Downloads/EnglishLearningApp-master/EnglishLearningApp-master/app/src/main/res/layout/activity_choose_word_db.xml" value="0.3302083333333333" />
+        <entry key="..\:/Users/xmg333/Downloads/EnglishLearningApp-master/EnglishLearningApp-master/app/src/main/res/layout/activity_learn_word.xml" value="0.3302083333333333" />
+        <entry key="..\:/Users/xmg333/Downloads/EnglishLearningApp-master/EnglishLearningApp-master/app/src/main/res/layout/activity_load_word.xml" value="0.3302083333333333" />
+        <entry key="..\:/Users/xmg333/Downloads/EnglishLearningApp-master/EnglishLearningApp-master/app/src/main/res/layout/activity_main.xml" value="0.3302083333333333" />
+        <entry key="..\:/Users/xmg333/Downloads/EnglishLearningApp-master/EnglishLearningApp-master/app/src/main/res/layout/activity_plan.xml" value="0.3302083333333333" />
+        <entry key="..\:/Users/xmg333/Downloads/EnglishLearningApp-master/EnglishLearningApp-master/app/src/main/res/layout/fragment_me.xml" value="0.3302083333333333" />
+        <entry key="..\:/Users/xmg333/Downloads/EnglishLearningApp-master/EnglishLearningApp-master/app/src/main/res/layout/fragment_word.xml" value="0.3302083333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
